@@ -2,7 +2,7 @@
 ### [백준 문제 목록]
 |No.|문제 번호|문제 이름|문제 유형|
 |:---:|:---:|:---:|:---:| 
-|1|11404|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="10"> [플로이드](https://www.acmicpc.net/problem/11404)|플로이드와샬| 
+|1|11404|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="10"> [플로이드](https://www.acmicpc.net/problem/11404)|플로이드와샬| 
 |2|12865|[평범한 배낭](https://www.acmicpc.net/problem/12865)|DP| 
 |3|1932|[정수 삼각형](https://www.acmicpc.net/problem/1932)|DP|
 |4|1786|[찾기](https://www.acmicpc.net/problem/1786)|KMP알고리즘|
