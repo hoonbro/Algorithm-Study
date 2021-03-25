@@ -2,6 +2,7 @@
 ## 분류
 > DP
 
+## 코드
 ```
 import java.io.BufferedReader;
 import java.io.IOException;
