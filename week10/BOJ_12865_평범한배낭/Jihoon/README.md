@@ -1,4 +1,6 @@
-# [12865] [평범한배낭](https://www.acmicpc.net/problem/12865)
+# [12865] 평범한배낭
+## 문제 링크
+> https://www.acmicpc.net/problem/12865
 ## 알고리즘 분류
 > DP
 
