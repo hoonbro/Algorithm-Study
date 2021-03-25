@@ -1,7 +1,7 @@
 # 10주차 알고리즘 스터디
 ### [백준 문제 목록]
 |No.|문제 번호|문제 이름|문제 유형|
-|:---:|:---:|:---:|:---:| 
+|:---:|:---:|:---|:---:| 
 |1|11404|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="12"> [플로이드](https://www.acmicpc.net/problem/11404)|플로이드와샬| 
 |2|12865|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="12"> [평범한 배낭](https://www.acmicpc.net/problem/12865)|DP| 
 |3|1932|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="12"> [정수 삼각형](https://www.acmicpc.net/problem/1932)|DP|
