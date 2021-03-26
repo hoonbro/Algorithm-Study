@@ -1,4 +1,4 @@
-### Algorithm-Study
+# Algorithm-Study
 
 # 📝Rule
 
@@ -25,4 +25,4 @@
  -ex) 8주차/bj_2876/Main_2876_이름
  
  
-### 업로드 하기전에 꼭 pull 하자 !!
+### <span style="color:red">업로드 하기전에 꼭 pull 하자 !!</span>
