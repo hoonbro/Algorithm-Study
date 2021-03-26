@@ -1,6 +1,6 @@
 # Algorithm-Study
 
-# 📝Rule
+## 📝Rule
 
 #### ⏰스터디 시간 
 - ##### 매주 월요일, 수요일, 금요일 6시 30분 코드 리뷰    
@@ -20,9 +20,9 @@
 ##
 
 ##### 파일 생성 및 업로드 규칙
- N주차/디렉터리/.java파일로 해서 추가합니다.
+ Nweek/디렉터리/이름/.java파일로 해서 추가합니다.
  
- -ex) 8주차/BOJ_11404_플로이드/Heung/Main.java
+ -ex) Nweek/BOJ_11404_플로이드/Heung/Main.java
  
  
  
