@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Day1BOJ12865 {
+public class Day2BOJ12865 {
 
 	static int n, k;
 	static int[][] w;
